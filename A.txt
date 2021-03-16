@@ -1,1 +1,2 @@
 Hello I am A.txt file
+i have different content as part of branch 1
